@@ -10,7 +10,7 @@ setup(
     license='MIT License',
     packages=['threaded_cv2'],
     install_requires=[
-        'cv2',
+        'opencv-python',
     ],
     classifiers=[
         'Development Status :: 1 - Planning',
