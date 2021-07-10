@@ -8,7 +8,7 @@ setup(
     author='Ricardo Gonzalez',
     author_email='rjgcastillo2@gmail.com',
     license='MIT License',
-    packages=['pyexample'],
+    packages=['threaded_cv2'],
     install_requires=[
         'cv2',
     ],
